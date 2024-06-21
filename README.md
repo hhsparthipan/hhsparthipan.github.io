@@ -31,7 +31,4 @@
 
 
 
-<hr>
-<p align="center">
-Developed with ❤️ in India 🇮🇳 
-</p>
+
