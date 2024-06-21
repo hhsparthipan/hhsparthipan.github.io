@@ -1,7 +1,7 @@
 # hhsparthipan.github.io
 
 <h1 align="center">
-  GitHub Profile README Generator
+  Welcome to my profile
 </h1>
 
 <p align="center">
