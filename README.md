@@ -16,6 +16,8 @@
 <a href="https://linkedin.com/in/hari-hara-sudhan-parthipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-hara-sudhan-parthipan" height="30" width="40" /></a>
 <a href="https://kaggle.com/harisudhan312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harisudhan312" height="30" width="40" /></a>
 <a href="https://instagram.com/harisudhan312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harisudhan312" height="30" width="40" /></a>
+<a href="https://hariparthipan.myportfolio.com" target="blank"><img align="center" src="https://colibriwp.com/blog/wp-content/uploads/2019/10/photography-icons.png" alt="harisudhan312" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Skills</h3>
